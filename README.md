@@ -16,7 +16,8 @@ A simple React app to mix multiple colors and generate a combined color palette 
 
 ## Demo
 
-> Add your deployed demo link here (optional)
+> color-mixer-xi.vercel.app
+
 
 ---
 
