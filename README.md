@@ -1,5 +1,5 @@
 # Color Palette Mixer
-
+![Image](https://github.com/user-attachments/assets/705cc8ae-3115-4620-9db1-66b67d409c1a)
 A simple React app to mix multiple colors and generate a combined color palette along with Tailwind CSS configuration output.
 
 ---
